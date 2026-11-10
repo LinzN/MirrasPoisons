@@ -1,0 +1,11 @@
+## Interface: 16001
+## Title: Mirra's Poisons
+## Notes: Rogue poison tracker: shows weapons without poison and applies a poison from your bags with one click.
+## Author: Kekshaus
+## Version: 1.0.0
+## IconTexture: Interface\AddOns\MirraPoisons\media\icon
+## Category: Combat
+## SavedVariablesPerCharacter: MirraPoisonsDB
+
+Core.lua
+Options.lua
